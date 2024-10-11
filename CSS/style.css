@@ -1,11 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=DM+Serif+Display&family=Lobster&family=Press+Start+2P&display=swap');
+/*==========*/
+/*CONSTANTES*/ 
+/*==========*/
+.color{
+    background-color: #3f3f3f;
+}
 
-/* MENU */
+.color-1{
+    background-color: black;
+}
+
+.text{
+    color: #f3f3f3;
+    font-size: 20px;
+}
+
+.etiqueta{
+    border-radius: 20px;
+}
+/*==========*/
+/*===MENU===*/
+/*==========*/
+.menu{
+
+}
+
+
 #gg {
     font-size: 18px;
     font-weight: bold;
     color: #3f3f3f;
 }
+
+.logo{
+    width: 80px;
+}
+/*==========*/
+/*=CAROUSEL=*/
+/*==========*/
 
 .carousel-inner{
     max-height: 90vh;
@@ -16,8 +48,9 @@
     color: crimson;
     font-size: 22px;
 }
-
-/*MAPA*/
+/*==========*/
+/*==MAPA====*/
+/*==========*/
 .mapa{
     background: url(https://motor.elpais.com/wp-content/uploads/2022/01/google-maps-22.jpg);
     width: 100%;
