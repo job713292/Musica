@@ -18,6 +18,12 @@
 .etiqueta{
     border-radius: 20px;
 }
+
+.gap{
+    display: flex;
+    
+    gap: 12px;
+}
 /*==========*/
 /*===MENU===*/
 /*==========*/
